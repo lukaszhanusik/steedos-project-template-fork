@@ -40,7 +40,6 @@ tasks:
 vscode:
   extensions:
     - dbaeumer.vscode-eslint
-    - redhat.vscode-yaml
     - steedos.steedosdx-vscode
     - steedos.steedosdx-vscode-core
     - ms-ceintl.vscode-language-pack-zh-hans
